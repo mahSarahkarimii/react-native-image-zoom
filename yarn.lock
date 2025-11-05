@@ -7998,15 +7998,14 @@ react-native-builder-bob@^0.20.0:
   optionalDependencies:
     jetifier "^2.0.0"
 
-react-native-gesture-handler@^2.12.1:
-  version "2.21.0"
-  resolved "https://registry.yarnpkg.com/react-native-gesture-handler/-/react-native-gesture-handler-2.21.0.tgz#b8d8ed4bb4a1ade9d2071741b63f955831388969"
-  integrity sha512-8fR1a8EX1aP+TFGiF8pP3UJks2CcfEu7WZzctkJg1yu2DtbVu+uJB/kAPS1XuZxFBKn7pyJcwuQhzuhilzK4DA==
+react-native-gesture-handler@2.26.0:
+  version "2.26.0"
+  resolved "https://registry.yarnpkg.com/react-native-gesture-handler/-/react-native-gesture-handler-2.26.0.tgz#e8774c8cd90f7e72c0ecade0ac1b4f7160fcbd5f"
+  integrity sha512-pfE1j9Vzu0qpWj/Aq1IK+cYnougN69mCKvWuq1rdNjH2zs1WIszF0Mum9/oGQTemgjyc/JgiqOOTgwcleAMAGg==
   dependencies:
     "@egjs/hammerjs" "^2.0.17"
     hoist-non-react-statics "^3.3.0"
     invariant "^2.2.4"
-    prop-types "^15.7.2"
 
 react-native-reanimated@~3.3.0:
   version "3.3.0"
